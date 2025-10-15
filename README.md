@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning software engineering practices along with agentic workflows.
 - 👯 I’m currently looking for a partner with low latency and high emotional bandwidth.
 - ❤️ Relationship status: `git commit -m "Looking for a girlfriend"` (still waiting for merge approval)
-- 📫 How to reach me: Email: yungzhengum@gmail.com or Connect with me on [LinkedIn](https://www.linkedin.com/in/yung-zheng-leong/)
+- 📫 How to reach me: [Email](yungzhengum@gmail.com) or Connect with me on [LinkedIn](https://www.linkedin.com/in/yung-zheng-leong/)
 - ⚡ Fun fact: I love video games, working out and music!
 
